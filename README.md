@@ -6,11 +6,11 @@
 
 1. Сначала я создал новый файл с именем `script.bash`
 
-![image](Assets/img1.PNG)
+![image](https://github.com/WillowRussia/ItmoInformatics/blob/main/Assets/img1.png?raw=true)
 
 2. Далее я открыл созданный файл `script.bash` для редактирования.
 
-   ![image](Assets/img2.PNG)
+![image](https://github.com/WillowRussia/ItmoInformatics/blob/main/Assets/img2.png?raw=true)
 
 3. Потом я вписал следующий скрипт
 
@@ -20,19 +20,19 @@
 echo "Welcome to ITMO University"
 ```
 
-![image](Assets/img3.PNG)
+![image](https://github.com/WillowRussia/ItmoInformatics/blob/main/Assets/img3.png?raw=true)
 
 4. После этого я сохранил файл и запустл bash-скрипт, выполнив в терминале
 
 ```bash
 bash script.bash
 ```
-![image](Assets/img4.PNG)
+![image](https://github.com/WillowRussia/ItmoInformatics/blob/main/Assets/img4.png?raw=true)
 
 
 ### Решение задачи 
 С помощью знаний ,полученных из лекций, дополнительных источников и, добавив к этому немного смекалки, я решил задачу следующуим  способом.
 
-![image](Assets/img5.PNG)
+![image](https://github.com/WillowRussia/ItmoInformatics/blob/main/Assets/img5.png?raw=true)
 
 
